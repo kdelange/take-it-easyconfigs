@@ -17,7 +17,8 @@ dependencies = [
 #
 source_urls = [('https://github.com/molgenis/NGS_RNA/archive/refs/tags/') ]
 sources = [('%s.tar.gz' % (version))]
-checksums = ['b659c4d80497081115637c95c5ae9542ecf033b35ca23d1cc50fe26e92bfad4f']
+checksums = ['9a539496ce2a7f986b5bedc7630346c6872d65aa421f822adda56c10ac0193a4']
+
 
 sanity_check_paths = {
     'files': ['workflow_STAR.csv', 'parameters.csv'],
